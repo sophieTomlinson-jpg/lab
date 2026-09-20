@@ -16,31 +16,31 @@
 
 > **Multiple Choice (10)**
 
-1.  Which of the following is an inorganic compound?\
+1.  Which of the following is an inorganic compound?\ C.
     A. Glucose\
     B. Protein\
     C. Water\
     D. Lipid
 
-2.  Organic molecules always contain:\
+2.  Organic molecules always contain:\ B.  
     A. Nitrogen\
     B. Carbon and hydrogen\
     C. Oxygen only\
     D. Sulfur
 
-3.  Carbon can form how many covalent bonds?\
+3.  Carbon can form how many covalent bonds?\ C.
     A. 2\
     B. 3\
     C. 4\
     D. 6
 
-4.  A molecular formula shows:\
+4.  A molecular formula shows:\ C.
     A. Exact bonding structure\
     B. Atom arrangement\
     C. Types and numbers of atoms\
     D. Bond angles
 
-5.  What type of bond involves shared electrons?\
+5.  What type of bond involves shared electrons?\ C.
     A. Ionic\
     B. Hydrogen\
     C. Covalent\
@@ -48,23 +48,23 @@
 
 6.  Isomers are molecules that:\
     A. Have different formulas\
-    B. Have same atoms but different arrangements\
+    B. Have same atoms but different arrangements\ B.
     C. Are always inorganic\
     D. Are always identical
 
-7.  Water is considered polar because:\
+7.  Water is considered polar because:\ D.
     A. It has equal charge distribution\
     B. It contains hydrogen bonds only\
     C. Electrons are shared evenly\
     D. Electrons are shared unevenly
 
-8.  pH measures:\
+8.  pH measures:\ B.
     A. Oxygen levels\
     B. Hydrogen ion concentration\
     C. Temperature\
     D. Salt concentration
 
-9.  A buffer functions to:\
+9.  A buffer functions to:\ C.
     A. Increase pH rapidly\
     B. Neutralize all acids\
     C. Resist changes in pH\
@@ -72,51 +72,61 @@
 
 > **Short Answer (10)**
 
-11. Define an organic molecule.
+11. Define an organic molecule. 
+Carbon based and usually bonded with hydrogen.
 
 12. What is a covalent bond?
+Two atoms sharing a pair of valence electrons.
 
 13. What is the difference between a molecular and structural formula?
+Molecular is a list of elements and amounts. Structural shows how the atoms are bonded and arranged.
 
 14. What does the formula C₂H₆O tell you about a molecule?
+That it contains 2 carbons, 6 hydrogens, and an oxygen. 
 
 15. What is a functional group?
+Clusters of atoms attached to carbon skeletons that determine the characteristics and chemical reactions of biological molecules.
 
 16. Explain what an isomer is.
+Molecules or ions that share the exact same chemical formula, but have different arrangments or structures.
 
 17. Why is water considered an excellent solvent?
+    Because it is polar.
 
 18. Define cohesion and adhesion.
+    Cohesion is water sticking to water, adhesion is water sticking to something else.
 
 19. What is surface tension?
+Invisible layer on a liquid that resists external forces.
 
 20. Why is pH important in living organisms?
+It controls the chemical reactions, shape, and function of molecules.
 
 > **Key Terms to Define**
 
-- Organic compound
+- Organic compound - Chemical molecules built around carbon, covalently bonded to hydrogen, oxygen, nitrogen...
 
-- Inorganic compound
+- Inorganic compound - A chemical substance that generally doesn't contain carbon and hydrogen atoms bonded together.
 
-- Covalent bond
+- Covalent bond - Two atoms sharing a pair of valence electrons.
 
-- Molecular formula
+- Molecular formula - A list of elements and amounts.
 
-- Structural formula
+- Structural formula - Shows how the atoms are bonded and arranged.
 
-- Abbreviated structural formula
+- Abbreviated structural formula - Shows the order and the way atoms connect in a molecule, without drawing out every single bond line.
 
-- Isomer
+- Isomer - Molecules or ions that share the exact same chemical formula, but have different arrangments or structures.
 
-- Polarity
+- Polarity - An uneven sharing of electrons in a covalent bond.
 
-- pH
+- pH - The concentration of hydrogen ions.
 
-- Acid
+- Acid - Increases H+ and lowers OH- (lowers pH)
 
-- Base
+- Base - Increases OH- and lowers H+ (raises pH)
 
-- Buffer
+- Buffer - substances that resist pH changes in a solution.
 
 ## **Introduction: Molecules, Water, and pH**
 
