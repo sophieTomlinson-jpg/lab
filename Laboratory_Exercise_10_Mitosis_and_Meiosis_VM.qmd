@@ -134,7 +134,7 @@ During this activity you will work in *pairs.*
 | Prophase   |                       |                 |             |
 | Metaphase  | 345                   |                 |             |
 | Anaphase   | 2                     |                 |             |
-| Telophase  |                       |                 |             |
+| Telophase  | 234                   |                 |             |
 | Total      |                       |                 | 100%        |
 
 ### **Calculating Mitotic Index**
