@@ -82,7 +82,7 @@ Upon completion of this laboratory exercise, students will be able to:
 
 All living organisms are composed of chemical compounds that perform essential functions needed for life. The majority of these compounds belong to four major classes of biological macromolecules:
 
-- Carbohydrates
+- Carbohydrateshhhh
 
 - Proteins
 
